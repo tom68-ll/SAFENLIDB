@@ -26,7 +26,7 @@ This study utilizes publicly available data, with detailed data sources and corr
 
 2. Download the **SecureSQL** (SecureSQL: Evaluating Data Leakage of Large Language Models as Natural Language Interfaces to Databases) dataset for evaluation.
 
-3. Download the **Spider** (Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task) and **Bird** (Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs) test databases, and merge them as the foundation for **SecureSQL** benchmark. 
+3. Download the **Spider** (Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task) and **Bird** (Can LLM Already Serve as A Database Interface? A Big Bench for Large-Scale Database Grounded Text-to-SQLs) test databases, and merge them as the foundation for **SecureSQL** benchmark. 
 
 
 ## **✨Security-Aware NLIDB Data Synthesis**
