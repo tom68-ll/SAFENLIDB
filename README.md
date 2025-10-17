@@ -1,6 +1,6 @@
 # **🛡️SafeNLIDB**
 
-This repository contains the code for the paper **"SafeNLIDB: A Privacy-Preserving Safety Alignment Framework for LLM-based Natural Language Database Interfaces"**.
+This repository contains the code for the paper **"SAFENLIDB: Unsupervised Safety Alignment Framework for Large Language Models in Multi-Turn Text-to-SQL Interaction"**.
 
 
 ![path](framework.jpg "Framework")
