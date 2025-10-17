@@ -1,4 +1,4 @@
-# **🛡️SafeNLIDB**
+# **🛡️SAFENLIDB**
 
 This repository contains the code for the paper **"SAFENLIDB: Unsupervised Safety Alignment Framework for Large Language Models in Multi-Turn Text-to-SQL Interaction"**.
 
