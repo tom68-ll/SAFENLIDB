@@ -1,6 +1,6 @@
 # **🛡️SAFENLIDB**
 
-This repository contains the code for the paper **"SAFENLIDB: A Privacy-Preserving Safety Alignment Framework for LLM-based Natural Language Database Interfaces"**.
+This repository contains the code for our AAAI 2026 paper **"SAFENLIDB: A Privacy-Preserving Safety Alignment Framework for LLM-based Natural Language Database Interfaces"**.
 
 
 ![path](framework.jpg "Framework")
@@ -136,3 +136,18 @@ Once everything is ready, configure the paths and run the following commands:
 python evaluate/SecureSQL/RS/RS_.py
 python evaluate/ShieldSQL/RS++/RS_++.py
 ```
+
+---
+## Citation
+```
+@misc{liu2025safenlidbprivacypreservingsafetyalignment,
+      title={SAFENLIDB: A Privacy-Preserving Safety Alignment Framework for LLM-based Natural Language Database Interfaces}, 
+      author={Ruiheng Liu and XiaoBing Chen and Jinyu Zhang and Qiongwen Zhang and Yu Zhang and Bailong Yang},
+      year={2025},
+      eprint={2511.06778},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2511.06778}, 
+}
+
+
