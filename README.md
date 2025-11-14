@@ -149,5 +149,22 @@ python evaluate/ShieldSQL/RS++/RS_++.py
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2511.06778}, 
 }
+```
+## Acknowledgments
+```
+We would like to express our gratitude to the following papers and individuals who have significantly contributed to this work:
+
+### References:
+- OmniSQL - Synthesizing High-quality Text-to-SQL Data at Scale (https://dl.acm.org/doi/10.14778/3749646.3749723)
+- Uncovering the Impact of Chain-of-Thought Reasoning for Direct Preference Optimization: Lessons from Text-to-SQL (https://aclanthology.org/2025.acl-long.1031/)
+
+### Special Thanks to:
+- Yanqi Song
+- Qi Shi
+- Kai Xiong
+- Haoyang Li  
+
+We greatly appreciate their insights and suggestions, which have been invaluable in improving this work.
+
 
 
