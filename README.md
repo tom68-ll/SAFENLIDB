@@ -138,8 +138,30 @@ python evaluate/ShieldSQL/RS++/RS_++.py
 ```
 
 ---
-## Citation
-```
+
+## 💜 Acknowledgments
+
+We would like to express our sincere gratitude to the following papers and individuals for their significant contributions to this work.
+
+### 📚 References
+This project is inspired by and builds upon the following research:
+
+* **OmniSQL**: [Synthesizing High-quality Text-to-SQL Data at Scale](https://dl.acm.org/doi/10.14778/3749646.3749723) (*VLDB 2025*)
+* **Syn CoT**: [Uncovering the Impact of Chain-of-Thought Reasoning for Direct Preference Optimization: Lessons from Text-to-SQL](https://aclanthology.org/2025.acl-long.1031/) (*ACL 2025*)
+
+### 🌟 Special Thanks
+We deeply appreciate the invaluable insights and suggestions provided by the following individuals, which have been instrumental in improving this work:
+
+* **Yanqi Song**
+* **Qi Shi**
+* [**Kai Xiong**](https://waste-wood.github.io/)
+* [**Haoyang Li**](https://scholar.google.com/citations?user=85UuF3oAAAAJ&hl=zh-CN)
+
+## 📖 Citation
+
+If you find this repository or our paper useful in your research, please consider citing:
+
+```bibtex
 @misc{liu2025safenlidbprivacypreservingsafetyalignment,
       title={SAFENLIDB: A Privacy-Preserving Safety Alignment Framework for LLM-based Natural Language Database Interfaces}, 
       author={Ruiheng Liu and XiaoBing Chen and Jinyu Zhang and Qiongwen Zhang and Yu Zhang and Bailong Yang},
@@ -149,22 +171,4 @@ python evaluate/ShieldSQL/RS++/RS_++.py
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2511.06778}, 
 }
-```
-## Acknowledgments
-```
-We would like to express our gratitude to the following papers and individuals who have significantly contributed to this work:
-
-### References:
-- OmniSQL - Synthesizing High-quality Text-to-SQL Data at Scale (https://dl.acm.org/doi/10.14778/3749646.3749723)
-- Uncovering the Impact of Chain-of-Thought Reasoning for Direct Preference Optimization: Lessons from Text-to-SQL (https://aclanthology.org/2025.acl-long.1031/)
-
-### Special Thanks to:
-- Yanqi Song
-- Qi Shi
-- Kai Xiong
-- Haoyang Li  
-
-We greatly appreciate their insights and suggestions, which have been invaluable in improving this work.
-
-
 
